@@ -9,6 +9,9 @@
 .env
 .config
 
+/api-test
+
+/api.db
 # Vendor directory
 /vendor/
 
